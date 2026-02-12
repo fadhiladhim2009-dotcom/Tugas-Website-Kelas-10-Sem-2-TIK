@@ -24,7 +24,7 @@ body{
     height:50px;
     line-height:50px;
     position:relative;
-    widht:90%;
+    width:90%;
     margin:0 auto;
     padding:0 auto;
 }
@@ -41,5 +41,6 @@ body{
     color:#FFF;
     text-decoration:none;
 }
+
 
 
